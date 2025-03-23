@@ -96,7 +96,7 @@ Desarrollar una aplicación web que permita a los estudiantes organizar sus tare
 
 ## Estándares para el desarrollo de software
 
-1. **Estándares de codificación**:
+1. **Estándares de codificación**: 
    - Utilizar nombres descriptivos para variables, funciones y clases.
    - Seguir la convención de nomenclatura del lenguaje (por ejemplo, camelCase para JavaScript, snake_case para Python).
    - Mantener un código limpio y bien comentado.
