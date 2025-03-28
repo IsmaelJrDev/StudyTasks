@@ -1,7 +1,7 @@
 # Proyecto: Sistema de Gestión de Tareas para Estudiantes (StudyTasks)
 
 ## Objetivo
-Desarrollar una aplicación web que permita a los estudiantes organizar sus tareas, establecer fechas límite y recibir recordatorios.
+Desarrollar una aplicación web que permita a los estudiantes organizar sus tareas, establecer fechas límite y recibir recordatorios via email y por medio de la aplicaion web.
 
 ---
 
