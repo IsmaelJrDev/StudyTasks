@@ -66,7 +66,7 @@ Desarrollar una aplicación web que permita a los estudiantes organizar sus tare
 ### Fase 1: Planeación y definición
 1. **Especificación de requisitos**: Crear una lista detallada de requisitos y confirmarlos.
 2. **Diseño conceptual**:
-   - Diseñar mockups para las pantallas principales (registro, inicio de sesión, lista de tareas).
+   - Diseñar mockups para las pantallas principales (registro, inicio de sesión, lista de tareas). Para este paso , se usara la página de ***https://visbug.web.app/*** 
    - Crear diagramas de flujo de datos para entender cómo se moverán los datos entre el usuario y la base de datos.
 
 ### Fase 2: Configuración del entorno
