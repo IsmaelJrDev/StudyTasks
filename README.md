@@ -25,7 +25,7 @@ Desarrollar una aplicación web que permita a los y las estudiantes organizar su
    - Fecha de vencimiento.
 2. Los usuarios deben tener acceso a una lista de todas sus tareas:
    - Agrupadas por estado (pendiente o completada).
-   - Ordenadas por fecha de vencimiento.
+   - Ordenadas por fecha de vencimiento. 
 3. El sistema debe permitir **editar** las tareas existentes, incluyendo:
    - Cambios en el título, descripción, prioridad o fecha de vencimiento.
 4. Los usuarios deben poder **eliminar** tareas:
