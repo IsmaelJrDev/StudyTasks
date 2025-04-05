@@ -19,7 +19,7 @@ Desarrollar una aplicación web que permita a los y las estudiantes organizar su
 
 ### Gestión de tareas (CRUD)
 1. Los usuarios deben poder **crear tareas**, proporcionando:
-   - Título de la tarea. 
+   - Título de la tarea.
    - Descripción de la tarea.
    - Nivel de prioridad (baja, media, alta).
    - Fecha de vencimiento.
